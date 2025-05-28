@@ -12,6 +12,6 @@ web_accessibility_statement.accessibility_admin_form:
     _form: '\Drupal\web_accessibility_statement\Form\AccessibilityAdminForm'
     _title: 'Web accessibility'
   requirements:
-    _permission: 'access administration pages'
+    _permission: 'administer site configuration'
   options:
     _admin_route: TRUE
