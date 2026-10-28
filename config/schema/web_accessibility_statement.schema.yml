@@ -1,0 +1,8 @@
+web_accessibility_statement.settings:
+  type: config_object
+  label: 'Web accessibility statement settings'
+  mapping:
+    url:
+      type: uri
+      label: 'Web accessibility statement URL'
+      nullable: true
